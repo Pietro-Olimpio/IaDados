@@ -76,3 +76,6 @@ Serve pra relacionar uma parte da tabela com outra
 grafico = sns.boxplot(data=df, x="temperatura_c",y="pecas_defeituosas")
 ```
 
+![alt text](image-3.png)
+
+
