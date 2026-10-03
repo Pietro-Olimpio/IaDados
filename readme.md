@@ -1,5 +1,7 @@
-# Bandas
+# Iadados
 
+
+## Pandas
 Pra isso precisa do arquivo .csv, no caso a tabela do exel.
 Tendo a tabela, importa o pandas e nome como pd
 ```py
